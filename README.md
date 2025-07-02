@@ -33,4 +33,4 @@ Para ejecutarlo localmente:
 2. Abrir el archivo `index.html` en tu navegador.
 
 ```bash
-git clone https://github.com/LucasSaavedra27/Front-VI
+git clone (https://github.com/LucasSaavedra27/Front-VI.git)
